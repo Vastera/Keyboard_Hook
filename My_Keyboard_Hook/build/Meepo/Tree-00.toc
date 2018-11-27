@@ -1,0 +1,5 @@
+('F:\\Keyboard_Hook\\My_Keyboard_Hook\\build\\Meepo\\mouse-0.0.1-py3.7.egg',
+ None,
+ {'*.pyd', 'EGG-INFO', '*.pyc', '*.pyw', '*.py', '*.cp37-win32.pyd'},
+ 'DATA',
+ [])
