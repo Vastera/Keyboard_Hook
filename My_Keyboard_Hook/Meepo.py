@@ -10,6 +10,8 @@ from mouse import ButtonEvent, MoveEvent, WheelEvent, LEFT, RIGHT, MIDDLE, X, X2
 while True:
     keyboard.add_hotkey('b',others_hoof, args=(''),suppress=True,timeout=0.01,trigger_on_release=True),
     keyboard.add_hotkey('space',all_hoof, args=(''),suppress=True,timeout=0.01,trigger_on_release=True)
+    print('Switch On~')
     keyboard.wait('enter')
     keyboard.clear_all_hotkeys()
+    print('Switch Off~')
     keyboard.wait('enter')
