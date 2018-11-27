@@ -34,7 +34,7 @@
  [],
  False,
  False,
- 1543326532,
+ 1543333502,
  [('run.exe',
    'c:\\users\\vastera\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\run.exe',
    'EXECUTABLE')])

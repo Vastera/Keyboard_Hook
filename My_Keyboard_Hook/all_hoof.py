@@ -15,6 +15,7 @@ def all_hoof(delay=0.02):
                 if event.button is LEFT:
                         lock.release()
                         mouse.unhook(Action_all)
+                        mouse.click()
                         key_series('tab,f')
                         mouse.click()
                         time.sleep(delay)

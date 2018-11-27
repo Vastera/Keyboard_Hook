@@ -16,6 +16,8 @@ def others_hoof(delay=0.02):
                 if event.button is LEFT:
                         lock.release()
                         mouse.unhook(Action_others)
+                        mouse.click()
+                        time.sleep(delay)
                         key_series('3,f')
                         mouse.click()
                         time.sleep(delay)
